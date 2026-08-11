@@ -5,26 +5,28 @@ Projeto que visa compartilhar experiências reais dos técnicos e transformar os
 ## Objetivo
 
 Utilizar casos reais para:
-    * Desenvolver raciocínio técnico;
-    * Melhorar a postura no atendimento ao cliente;
-    * Compartilhar experiências entre os técnicos;
-    * Identificar formas de evitar problemas recorrentes;
-    * Melhorar os processos da Franquia
+   * Desenvolver raciocínio técnico;
+   * Melhorar a postura no atendimento ao cliente;
+   * Compartilhar experiências entre os técnicos;
+   * Identificar formas de evitar problemas recorrentes;
+   * Melhorar os processos da Franquia
     
 ## Reuniões
 
 **Quando:** Todas as quartas-feiras
+
 **Duração:** 1 hora
 
 Cada reunião será baseada em experiencias que o técnico Vinicius teve em João Pessoa na Matriz.
 
 **Estrutura**
-1- **Apresentação de Caso**
-2- **O que você faria?**
-3- **Como o caso foi resolvido**
-4- **Debate com a equipe**
-5- **Lições aprendidas**
-6- **Aplicação pratica**
+
+   1. **Apresentação de Caso**
+   2. **O que você faria?**
+   3. **Como o caso foi resolvido**
+   4. **Debate com a equipe**
+   5. **Lições aprendidas**
+   6. **Aplicação pratica**
 
 ## Temas
 
