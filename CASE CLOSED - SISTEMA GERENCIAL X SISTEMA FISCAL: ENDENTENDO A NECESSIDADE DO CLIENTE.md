@@ -86,7 +86,7 @@ Isso exigia que o sistema fosse capaz de representar corretamente a realidade da
 
 Para finalizar:
     
-    - **Quando um cliente disser que precisa trocar ou melhorar o sistema, quais perguntas devemos fazer antes de tentar apresentar a solução?**
+- **Quando um cliente disser que precisa trocar ou melhorar o sistema, quais perguntas devemos fazer antes de tentar apresentar a solução?**
     
 **Desafio para a equipe**
 
