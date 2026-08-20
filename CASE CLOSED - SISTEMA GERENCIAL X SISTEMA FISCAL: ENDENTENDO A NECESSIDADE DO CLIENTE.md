@@ -57,10 +57,10 @@ A situação ficava ainda mais complicada porque o cliente realizava compras de 
 Isso exigia que o sistema fosse capaz de representar corretamente a realidade da operação para que o cliente tivesse controle sobre sua empresa.
 
 **Perguntas para o debate**
-    * O cliente está procurando apenas um sistema para emitir nota documentos fiscais?
-    * **Qual é a importancia de entender o sistema fiscal e o gerencial?**
-    * **Como explicar ao cliente que ele deve utilizar os dois sistemas?**
-    * Quais os riscos existem quando o cliente somente o sistema fiscal?
+   - O cliente está procurando apenas um sistema para emitir nota documentos fiscais?
+   - **Qual é a importancia de entender o sistema fiscal e o gerencial?**
+   - **Como explicar ao cliente que ele deve utilizar os dois sistemas?**
+   - Quais os riscos existem quando o cliente somente o sistema fiscal?
     
 ## 4. Debate
 
@@ -75,12 +75,12 @@ Isso exigia que o sistema fosse capaz de representar corretamente a realidade da
 ## 5. Lições Aprendidas
 
 **Principais aprendizados**
-    * Antes de apresentar a solução, precisamos enteder como o cliente trabalha;
-    * O tecnico deve identificar a necessidade real por trá da solicitação do cliente;
-    * Sistema gerencial e sistema fiscal possuem objetivos diferentes;
-    * A implantação precisa considerar a realidade operacional do cliente;
-    * Nem sempre o problema está no sistema; pode existir um problema no proprio processo da empresa;
-    * Quanto melhor entendermos a operação do cliente, maior será nossa capacidade de indicar e configurar a solução adequada.
+   - Antes de apresentar a solução, precisamos enteder como o cliente trabalha;
+   - O tecnico deve identificar a necessidade real por trá da solicitação do cliente;
+   - Sistema gerencial e sistema fiscal possuem objetivos diferentes;
+   - A implantação precisa considerar a realidade operacional do cliente;
+   - Nem sempre o problema está no sistema; pode existir um problema no proprio processo da empresa;
+   - Quanto melhor entendermos a operação do cliente, maior será nossa capacidade de indicar e configurar a solução adequada.
     
 ## 6. Aplicação prática
 
