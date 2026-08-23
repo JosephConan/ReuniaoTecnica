@@ -45,9 +45,3 @@ Os casos podem abordar:
 ## Principio
 
 > **Não é uma reunião para apontar erros. É uma reunião para aprender com situações reais e melhorar a forma como trabalhamos.**
-
-## Primeiro caso
-
-**Como conduzir uma implantação quando o cliente quer manter uma prática incorreta.**
-
-Caso baseado na experiência da implantação do Gran Forneria durante a imersão em João Pessoa.
