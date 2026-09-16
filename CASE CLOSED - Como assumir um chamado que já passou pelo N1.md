@@ -6,8 +6,6 @@ Mostrar a importância de entender o histórico de um chamado antes de realizar 
 
 A ideia é discutir como o N2 deve assumir um chamado que já passou pelo N1 sem simplesmente começar uma nova correção, evitando aumentar o problema e garantindo uma resolução segura.
 
----
-
 ## Caso real
 
 O cliente tinha uma **nota de devolução** e um **ajuste de estoque** que precisavam ser tratados.
@@ -28,8 +26,6 @@ Antes de alterar qualquer coisa, procure entender:
 - Quais movimentações de estoque foram realizadas?
 - O problema original ainda existe?
 
----
-
 ## Como o caso foi resolvido
 
 A resolução seguiu uma sequência para recuperar o histórico e corrigir o que havia sido alterado:
@@ -46,8 +42,6 @@ A resolução seguiu uma sequência para recuperar o histórico e corrigir o que
 10. Gerar a nota fiscal.
 11. Emitir somente após a validação do cliente.
 
----
-
 ## Principal lição
 
 > **Antes de corrigir, entenda o que aconteceu.**
@@ -55,8 +49,6 @@ A resolução seguiu uma sequência para recuperar o histórico e corrigir o que
 Quando um chamado chega ao N2 depois de passar pelo N1, o problema pode não estar mais exatamente como estava no início.
 
 Novas alterações podem ter sido feitas durante o atendimento. Por isso, é importante reconstruir o histórico antes de tomar uma nova decisão.
-
----
 
 ## O que deve existir no encaminhamento do N1 para o N2
 
@@ -72,8 +64,6 @@ Um bom encaminhamento deve informar:
 - Evidências importantes para a análise.
 
 O objetivo é evitar que o N2 precise começar a investigação do zero ou, pior, que o cliente precise repetir toda a situação novamente.
-
----
 
 ## Debate com a equipe
 
@@ -93,8 +83,6 @@ Quais informações teriam facilitado o trabalho do N2?
 
 O que podemos fazer para melhorar a passagem do chamado entre N1 e N2?
 
----
-
 ## Aplicação prática
 
 ### Situação
@@ -111,8 +99,6 @@ Qual seria a sequência de análise antes de realizar qualquer nova alteração?
 
 **Entender → verificar histórico → realizar backup → identificar alterações → corrigir → validar com o cliente.**
 
----
-
 ## Resultado esperado
 
 O objetivo não é apenas ensinar o N2 a **corrigir um problema**.
@@ -127,15 +113,3 @@ O objetivo não é apenas ensinar o N2 a **corrigir um problema**.
 - validar o resultado com o cliente.
 
 > **O papel do N2 não é apenas corrigir. É entender o problema, corrigir com segurança e garantir que a solução realmente atende ao cliente.**
-
----
-
-## Estrutura da reunião — 30 minutos
-
-| Tempo | Atividade |
-|---|---|
-| 5 min | Apresentação do caso |
-| 5 min | Como o caso foi resolvido |
-| 10 min | Debate com a equipe |
-| 5 min | Aplicação prática |
-| 5 min | Lições aprendidas e encerramento |
