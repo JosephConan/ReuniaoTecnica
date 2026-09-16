@@ -112,16 +112,16 @@ Antes de encaminhar, o N1 deve verificar, quando aplicável:
 
 Antes de clicar em **encaminhar para o N2**, o técnico pode fazer uma última conferência:
 
-- [ ] Entendi o problema do cliente?
-- [ ] Sei exatamente o que o cliente precisa?
-- [ ] Registrei o problema original?
-- [ ] Registrei o que já fiz?
-- [ ] Registrei quais documentos/cadastros foram alterados?
-- [ ] Registrei os testes realizados?
-- [ ] Registrei os resultados dos testes?
-- [ ] Anexei ou registrei as evidências importantes?
-- [ ] Expliquei claramente o que ainda está acontecendo?
-- [ ] O N2 conseguirá continuar a análise sem precisar começar do zero?
+- Entendi o problema do cliente?
+- Sei exatamente o que o cliente precisa?
+- Registrei o problema original?
+- Registrei o que já fiz?
+- Registrei quais documentos/cadastros foram alterados?
+- Registrei os testes realizados?
+- Registrei os resultados dos testes?
+- Anexei ou registrei as evidências importantes?
+- Expliquei claramente o que ainda está acontecendo?
+- O N2 conseguirá continuar a análise sem precisar começar do zero?
 
 ---
 
@@ -185,15 +185,3 @@ Ao final da reunião, o técnico deve entender que um chamado bem encaminhado:
 - demonstra que o N1 realizou uma análise antes de encaminhar.
 
 > **Um bom encaminhamento não é passar o problema para o N2. É entregar o problema já investigado, documentado e pronto para a próxima etapa.**
-
----
-
-## Estrutura da reunião — 30 minutos
-
-| Tempo | Atividade |
-|---|---|
-| 5 min | Apresentação do caso real |
-| 5 min | O que o N2 precisou investigar |
-| 10 min | Debate sobre a qualidade dos chamados do N1 |
-| 5 min | Exercício: preparar um encaminhamento N1 → N2 |
-| 5 min | Checklist, lições aprendidas e encerramento |
